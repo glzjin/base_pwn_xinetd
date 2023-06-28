@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
 LABEL Organization="CTFTraining" Author="Virink <virink@outlook.com>"
 MAINTAINER Virink@CTFTraining <virink@outlook.com>
